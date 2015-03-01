@@ -1,6 +1,7 @@
 # paperme
 
-some paper or ideas that seems to be need a place but cannot be reality (in some cases,financial reason)
+some paper or ideas that seems to be need a place but cannot be reality. (in some cases,financial reason). Yes Repo is more likely a place to pour all your Idea about IT Project and We can do research together
+
 # paperme wiki page 
 <a href='https://github.com/vickydasta/paperme/wiki'> paperme wiki page </a>
 
@@ -26,7 +27,7 @@ under MIT & wtfpl
 
                               The MIT License (MIT)
 
-                    Copyright (c) 2015 Vicky Vernando Dasta
+                    Copyright (c) 2015 Vicky Vernando Dasta and Panggalu Ari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
